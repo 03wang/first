@@ -2,7 +2,9 @@ package test;
 
 public class Second {
 
-	public String print() {
-		return "abc";
+	int x = 9;
+
+	public static void main(String[] args) {
+
 	}
 }
